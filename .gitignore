@@ -1,0 +1,31 @@
+# Ignore database dumps
+*.sql
+
+# Ignore CSV backups or temporary CSV files
+*.csv~
+*.tmp
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Linux/Unix temporary files
+*.swp
+*.swo
+
+# Ignore log files
+*.log
+
+# Ignore compiled or generated files
+*.out
+
+# Ignore environment files
+.env
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore GitHub Codespaces settings
+.devcontainer/
+
+# Ignore bash history files
+.bash_history
